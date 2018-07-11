@@ -22,7 +22,7 @@
 Git for All Platforms : htp://git-scm.com
 
 
-First Header | Second Header
+Git | GitHub
 ------------ | -------------
-Content cell 1 | Content cell 2
+Content cell 1 | [Télécharger GitHub](https://desktop.github.com/)
 Content column 1 | Content column 2
