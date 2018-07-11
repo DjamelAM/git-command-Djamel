@@ -20,6 +20,12 @@
 GitHub for Windows : htps://windows.github.com
 
 ![Mac Logo](http://1ere-page.net/wp-content/uploads/2017/11/apple-logo.jpg)
-GitHub for Mac : htps://mac.github.com
+GitHub for Mac : [bouh](htps://mac.github.com)
 
 Git for All Platforms : htp://git-scm.com
+
+
+First Header | Second Header
+------------ | -------------
+Content cell 1 | Content cell 2
+Content column 1 | Content column 2
