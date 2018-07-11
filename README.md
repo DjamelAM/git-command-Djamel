@@ -16,14 +16,8 @@
 
 ## Accès à Git et GitHub
 
-![GitHub Logo](https://desktop.github.com/images/desktop-icon.svg)
-![Git Logo](https://git-scm.com/images/logo@2x.png)
-[Télécharger GitHub](https://desktop.github.com/)
 
-Git for All Platforms : htp://git-scm.com
-
-
-Git ![Git Logo](https://git-scm.com/images/logo@2x.png) | GitHub ![GitHub Logo](https://desktop.github.com/images/desktop-icon.svg)
+![Git Logo](https://git-scm.com/images/logo@2x.png) | ![GitHub Logo](https://desktop.github.com/images/desktop-icon.svg)
 ------------ | -------------
 [Git Windows](https://git-scm.com/download/win) | [GitHub Windows](https://central.github.com/deployments/desktop/desktop/latest/win32)
 [Git Mac](https://git-scm.com/download/mac) | [GitHub Mac](https://central.github.com/deployments/desktop/desktop/latest/darwin)
