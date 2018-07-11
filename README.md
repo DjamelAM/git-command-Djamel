@@ -20,6 +20,15 @@
 
 > ```git log``` : Affiche l'historique des commit
 
+> ```git config``` : Parametre du repertoire et des options global
+
+> ```git commit``` : Enregistre les changements
+
+> ```git log``` : Affiche l'historique des commit
+
+> ```git pull``` : Envoie les données vers un repertoire distant
+
+> ```git status``` : Affiche les modifications d'un fichier en cour
 
 ## Documentation
 
