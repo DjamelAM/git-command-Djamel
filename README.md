@@ -6,13 +6,13 @@
 
 ## Quelques commandes Git
 
-> ```git revert``` : permet d'annuler un commit fait précédemment
+> ```git revert``` : permet d'annuler un commit fait prÃ©cÃ©demment
 
-> ```git diff``` : permet de voir les différences entre le projet actuel et le dernier commit
+> ```git diff``` : permet de voir les diffÃ©rences entre le projet actuel et le dernier commit
 
 > ```git push``` : permet d'envoyer le projet sur  GitHub
 
-> ```git fetch``` : permet de récupérer le projet sur GitHub
+> ```git fetch``` : permet de rÃ©cupÃ©rer le projet sur GitHub
 
 > ```git config``` : Parametre du repertoire et des options global
 
@@ -20,11 +20,15 @@
 
 > ```git log``` : Affiche l'historique des commit
 
-> ```git pull``` : Envoie les données vers un repertoire distant
 
-> ```git status``` : Affiche les modifications d'un fichier en cour
+## Documentation
 
-## Accès à Git et GitHub
+[Premiers pas avec GitHub](https://guides.github.com/features/wikis/)
+
+[Premiers pas avec Git](https://openclassrooms.com/fr/courses/1233741-gerez-vos-codes-source-avec-git)
+
+
+## AccÃ¨s Ã  Git et GitHub
 
 
 ![Git Logo](https://git-scm.com/images/logo@2x.png) | ![GitHub Logo](https://desktop.github.com/images/desktop-icon.svg)
