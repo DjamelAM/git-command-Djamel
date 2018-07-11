@@ -8,11 +8,11 @@
 
 > ```git revert``` : permet d'annuler un commit fait précédemment
 
-> git diff : permet de voir les différences entre le projet actuel et le dernier commit
+> ```git diff``` : permet de voir les différences entre le projet actuel et le dernier commit
 
->git push : permet d'envoyer le projet sur  GitHub
+> ```git push``` : permet d'envoyer le projet sur  GitHub
 
->git fetch : permet de récupérer le projet sur GitHub
+> ```git fetch``` : permet de récupérer le projet sur GitHub
 
 ## Accès à Git et GitHub
 
