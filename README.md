@@ -1,6 +1,6 @@
 # git-command-Djamel
 
-#Quelques commandes Git
+##Quelques commandes Git
 
 >git revert : permet d'annuler un commit fait précédemment
 
