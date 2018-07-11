@@ -44,3 +44,9 @@
 ------------ | -------------
 [Git Windows](https://git-scm.com/download/win) | [GitHub Windows](https://central.github.com/deployments/desktop/desktop/latest/win32)
 [Git Mac](https://git-scm.com/download/mac) | [GitHub Mac](https://central.github.com/deployments/desktop/desktop/latest/darwin)
+
+## Documentation
+
+[Premiers pas avec GitHub](https://guides.github.com/features/wikis/)
+
+[Premiers pas avec Git](https://openclassrooms.com/fr/courses/1233741-gerez-vos-codes-source-avec-git)
