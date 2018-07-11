@@ -14,6 +14,16 @@
 
 > ```git fetch``` : permet de récupérer le projet sur GitHub
 
+> ```git config``` : Parametre du repertoire et des options global
+
+> ```git commit``` : Enregistre les changements
+
+> ```git log``` : Affiche l'historique des commit
+
+> ```git pull``` : Envoie les données vers un repertoire distant
+
+> ```git status``` : Affiche les modifications d'un fichier en cour
+
 ## Accès à Git et GitHub
 
 
@@ -21,9 +31,3 @@
 ------------ | -------------
 [Git Windows](https://git-scm.com/download/win) | [GitHub Windows](https://central.github.com/deployments/desktop/desktop/latest/win32)
 [Git Mac](https://git-scm.com/download/mac) | [GitHub Mac](https://central.github.com/deployments/desktop/desktop/latest/darwin)
-
-
-
-
-
-[[Git Logo](https://git-scm.com/images/logo@2x.png)](https://git-scm.com/download/win)
