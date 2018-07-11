@@ -20,7 +20,7 @@
 GitHub for Windows : htps://windows.github.com
 
 ![Mac Logo](http://1ere-page.net/wp-content/uploads/2017/11/apple-logo.jpg)
-GitHub for Mac : [](htps://mac.github.com)
+GitHub for Mac : [Mac](https://www.google.fr/imghp?hl=fr)
 
 Git for All Platforms : htp://git-scm.com
 
