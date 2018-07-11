@@ -16,11 +16,8 @@
 
 ## Accès à Git et GitHub
 
-![Windows Logo](http://www.adaneos.com/images/windows_logo.jpg)
-GitHub for Windows : htps://windows.github.com
-
-![Mac Logo](http://1ere-page.net/wp-content/uploads/2017/11/apple-logo.jpg)
-GitHub for Mac : [Mac](https://www.google.fr/imghp?hl=fr)
+![GitHub Logo](https://desktop.github.com/images/desktop-icon.svg)
+[Télécharger GitHub](https://desktop.github.com/)
 
 Git for All Platforms : htp://git-scm.com
 
