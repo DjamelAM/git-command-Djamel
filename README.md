@@ -24,5 +24,8 @@
 
 ## Documentation **Github**
 
+[Premiers pas avec GitHub](https://guides.github.com/features/wikis/)
+
+[Premiers pas avec Git](https://openclassrooms.com/fr/courses/1233741-gerez-vos-codes-source-avec-git)
 
 
