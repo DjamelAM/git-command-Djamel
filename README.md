@@ -22,7 +22,8 @@
 [Git Windows](https://git-scm.com/download/win) | [GitHub Windows](https://central.github.com/deployments/desktop/desktop/latest/win32)
 [Git Mac](https://git-scm.com/download/mac) | [GitHub Mac](https://central.github.com/deployments/desktop/desktop/latest/darwin)
 
-## Documentation **Github**
 
 
 
+
+[[Git Logo](https://git-scm.com/images/logo@2x.png)](https://git-scm.com/download/win)
