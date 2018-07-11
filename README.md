@@ -22,7 +22,7 @@
 [Git Windows](https://git-scm.com/download/win) | [GitHub Windows](https://central.github.com/deployments/desktop/desktop/latest/win32)
 [Git Mac](https://git-scm.com/download/mac) | [GitHub Mac](https://central.github.com/deployments/desktop/desktop/latest/darwin)
 
-## Documentation **Github**
+## Documentation
 
 [Premiers pas avec GitHub](https://guides.github.com/features/wikis/)
 
